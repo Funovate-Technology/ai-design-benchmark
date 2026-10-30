@@ -1,0 +1,29 @@
+model_a,model_b,briefs,difference,ci_low,ci_high,verdict
+claude-opus-5-5,gpt-6-luna,8,0.28,-0.27,0.73,tie
+claude-opus-5-5,gpt-5.6-terra,8,0.42,-0.0,0.96,tie
+claude-opus-5-5,gemini-4-argon,8,0.48,-0.33,1.29,tie
+claude-opus-5-5,claude-sonnet-5-5,8,0.62,-0.11,1.18,tie
+claude-opus-5-5,gpt-6.1-sol,8,0.68,0.1,1.27,Claude Opus 5.5 higher
+claude-opus-5-5,gemini-3.8-flash,8,0.44,-0.27,1.15,tie
+claude-opus-5-5,gpt-6.1-terra,8,0.83,0.2,1.47,Claude Opus 5.5 higher
+gpt-6-luna,gpt-5.6-terra,12,0.11,-0.19,0.43,tie
+gpt-6-luna,gemini-4-argon,12,0.13,-0.35,0.62,tie
+gpt-6-luna,claude-sonnet-5-5,12,0.25,-0.1,0.6,tie
+gpt-6-luna,gpt-6.1-sol,12,0.33,0.03,0.66,GPT-6 Luna higher
+gpt-6-luna,gemini-3.8-flash,12,0.36,-0.08,0.77,tie
+gpt-6-luna,gpt-6.1-terra,12,0.61,0.21,0.98,GPT-6 Luna higher
+gpt-5.6-terra,gemini-4-argon,12,0.02,-0.63,0.64,tie
+gpt-5.6-terra,claude-sonnet-5-5,12,0.15,-0.39,0.68,tie
+gpt-5.6-terra,gpt-6.1-sol,12,0.23,-0.12,0.63,tie
+gpt-5.6-terra,gemini-3.8-flash,12,0.25,-0.38,0.78,tie
+gpt-5.6-terra,gpt-6.1-terra,12,0.5,0.21,0.81,GPT-5.6 Terra higher
+gemini-4-argon,claude-sonnet-5-5,12,0.13,-0.28,0.55,tie
+gemini-4-argon,gpt-6.1-sol,12,0.21,-0.42,0.76,tie
+gemini-4-argon,gemini-3.8-flash,12,0.23,-0.08,0.53,tie
+gemini-4-argon,gpt-6.1-terra,12,0.48,-0.25,1.16,tie
+claude-sonnet-5-5,gpt-6.1-sol,12,0.08,-0.47,0.6,tie
+claude-sonnet-5-5,gemini-3.8-flash,12,0.1,-0.35,0.61,tie
+claude-sonnet-5-5,gpt-6.1-terra,12,0.35,-0.24,0.91,tie
+gpt-6.1-sol,gemini-3.8-flash,12,0.02,-0.55,0.57,tie
+gpt-6.1-sol,gpt-6.1-terra,12,0.27,-0.02,0.6,tie
+gemini-3.8-flash,gpt-6.1-terra,12,0.25,-0.4,0.96,tie

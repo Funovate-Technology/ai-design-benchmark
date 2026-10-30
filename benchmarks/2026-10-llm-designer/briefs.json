@@ -5,7 +5,8 @@
     "layer_name": "everyday request",
     "language": "en",
     "brief": "A logo-style title for my new coffee roastery called EMBER & OAK",
-    "must_appear": "EMBER & OAK"
+    "must_appear": "EMBER & OAK",
+    "must_appear_as_given_to_judge": "EMBER & OAK"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "layer_name": "everyday request",
     "language": "zh",
     "brief": "给我做一张生日海报，寿星叫小雨，今年 8 岁，喜欢恐龙",
-    "must_appear": "小雨；8 岁（如 8岁/8 岁生日）；恐龙主题；生日"
+    "must_appear": "小雨 (the child's name); age 8 (e.g. 8岁 / 8 岁生日); dinosaur theme; birthday",
+    "must_appear_as_given_to_judge": "小雨；8 岁（如 8岁/8 岁生日）；恐龙主题；生日"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "layer_name": "everyday request",
     "language": "es",
     "brief": "Un cartel para la fiesta de graduación de secundaria, dice PROMOCIÓN 2026",
-    "must_appear": "PROMOCIÓN 2026（含重音 Ó）；毕业主题"
+    "must_appear": "PROMOCIÓN 2026 (with the accented Ó); graduation theme",
+    "must_appear_as_given_to_judge": "PROMOCIÓN 2026（含重音 Ó）；毕业主题"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "layer_name": "getting the information right",
     "language": "en",
     "brief": "YouTube thumbnail text for a video about losing 30 pounds, title THE SHIFT",
-    "must_appear": "THE SHIFT；30 pounds 主题（不必印出）"
+    "must_appear": "THE SHIFT; the '30 pounds' idea as the theme (the words need not be printed)",
+    "must_appear_as_given_to_judge": "THE SHIFT；30 pounds 主题（不必印出）"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "layer_name": "getting the information right",
     "language": "zh",
     "brief": "招聘海报：标题「一起把账算明白」，副标题「马来西亚 AI 公司，招两位财务」，要写上公司名 Northwind Labs Sdn Bhd、月薪 RM6000-9000、地点吉隆坡 Bangsar、投递邮箱 jobs@northwindlabs.my、截止 10 月 15 日。标题最大，邮箱最小。",
-    "must_appear": "一起把账算明白（标题最大）｜马来西亚 AI 公司，招两位财务｜Northwind Labs Sdn Bhd｜RM6000-9000｜吉隆坡 Bangsar｜jobs@northwindlabs.my（最小）｜截止 10 月 15 日"
+    "must_appear": "一起把账算明白 (the headline, largest) | Malaysian AI company hiring two finance staff | Northwind Labs Sdn Bhd | RM6000-9000 | 吉隆坡 Bangsar | jobs@northwindlabs.my (smallest) | 截止 10 月 15 日 (deadline)",
+    "must_appear_as_given_to_judge": "一起把账算明白（标题最大）｜马来西亚 AI 公司，招两位财务｜Northwind Labs Sdn Bhd｜RM6000-9000｜吉隆坡 Bangsar｜jobs@northwindlabs.my（最小）｜截止 10 月 15 日"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "layer_name": "getting the information right",
     "language": "pt",
     "brief": "Uma capa para o copo de café para viagem da minha cafeteria em Belo Horizonte, a Grão de Ouro. Tem que ter o slogan \"Café de verdade, sem pressa\" e \"Desde 1998\".",
-    "must_appear": "Grão de Ouro｜Café de verdade, sem pressa｜Desde 1998（ã / é 不能丢）"
+    "must_appear": "Grão de Ouro | Café de verdade, sem pressa | Desde 1998 (ã / é must be kept)",
+    "must_appear_as_given_to_judge": "Grão de Ouro｜Café de verdade, sem pressa｜Desde 1998（ã / é 不能丢）"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "layer_name": "design judgement",
     "language": "en",
     "brief": "I want an extremely minimal, quiet, almost invisible wordmark for my nightclub — but it also has to scream across a dark street from 50 metres away and feel expensive. The name is VOID.",
-    "must_appear": "VOID"
+    "must_appear": "VOID",
+    "must_appear_as_given_to_judge": "VOID"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "layer_name": "design judgement",
     "language": "en",
     "brief": "Cover art for a peer-reviewed paper on cryo-EM structural determination of amyloid fibrils. Title: CONFORMATIONAL POLYMORPHISM. It has to look like it belongs on the cover of Nature, not like a startup pitch deck.",
-    "must_appear": "CONFORMATIONAL POLYMORPHISM"
+    "must_appear": "CONFORMATIONAL POLYMORPHISM",
+    "must_appear_as_given_to_judge": "CONFORMATIONAL POLYMORPHISM"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "layer_name": "design judgement",
     "language": "en",
     "brief": "A shop sign for my tattoo studio called INKWELL. It should still feel welcoming to my grandmother's generation.",
-    "must_appear": "INKWELL"
+    "must_appear": "INKWELL",
+    "must_appear_as_given_to_judge": "INKWELL"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "layer_name": "language and culture",
     "language": "ja",
     "brief": "夏祭りの屋台の看板を作ってください。「かき氷」と書いて、昭和レトロな駄菓子屋の雰囲気で。提灯の灯りみたいな温かさがほしい。",
-    "must_appear": "かき氷"
+    "must_appear": "かき氷",
+    "must_appear_as_given_to_judge": "かき氷"
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "layer_name": "language and culture",
     "language": "de",
     "brief": "Ein Schild für die Neueröffnung unserer Bäckerei „Großmanns Backstube\" in Leipzig. Öffnungszeiten: Mo–Sa 6:30–18 Uhr, So 7–12 Uhr. Gemütlich, aber nicht kitschig.",
-    "must_appear": "Großmanns Backstube（ß / 德式引号可省）｜Öffnungszeiten: Mo–Sa 6:30–18 Uhr｜So 7–12 Uhr；Leipzig 可选"
+    "must_appear": "Großmanns Backstube (ß required; German quotation marks may be omitted) | Öffnungszeiten: Mo–Sa 6:30–18 Uhr | So 7–12 Uhr; Leipzig optional",
+    "must_appear_as_given_to_judge": "Großmanns Backstube（ß / 德式引号可省）｜Öffnungszeiten: Mo–Sa 6:30–18 Uhr｜So 7–12 Uhr；Leipzig 可选"
   },
   {
     "id": 12,
@@ -93,6 +104,7 @@
     "layer_name": "language and culture",
     "language": "es",
     "brief": "Invitación para la reunión familiar de Día de Muertos en casa de la abuela Rosa. Domingo 1 de noviembre de 2026, 7 de la noche, Calle Hidalgo 45, Oaxaca. Algo cálido y respetuoso, no de disfraz.",
-    "must_appear": "Día de Muertos 聚会请柬｜abuela Rosa｜Domingo 1 de noviembre de 2026｜7 de la noche｜Calle Hidalgo 45, Oaxaca"
+    "must_appear": "Día de Muertos gathering invitation | abuela Rosa | Domingo 1 de noviembre de 2026 | 7 de la noche | Calle Hidalgo 45, Oaxaca",
+    "must_appear_as_given_to_judge": "Día de Muertos 聚会请柬｜abuela Rosa｜Domingo 1 de noviembre de 2026｜7 de la noche｜Calle Hidalgo 45, Oaxaca"
   }
 ]

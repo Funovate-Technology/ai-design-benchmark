@@ -47,6 +47,19 @@ def main():
                 errors.append(f"{d['id']}: hard defects and legibility band disagree")
         elif not d.get("failure"):
             errors.append(f"{d['id']}: failed without a cause")
+    attempts = load(llm / "attempts.jsonl")
+    by_id = {}
+    for a in attempts:
+        by_id.setdefault(a["id"], []).append(a)
+    for d in designs:
+        at = by_id.get(d["id"], [])
+        if len(at) != d.get("attempts"):
+            errors.append(f"{d['id']}: {len(at)} attempts listed, design says {d.get('attempts')}")
+        elif not at[-1]["used"] or at[-1]["status"] != d["status"] or any(x["used"] for x in at[:-1]):
+            errors.append(f"{d['id']}: used attempt does not match the design")
+        elif any(x["cause"] not in ("provider", "front_desk") for x in at[:-1]):
+            errors.append(f"{d['id']}: an attempt was replaced without a provider or front-desk cause")
+    print(f"llm-designer: {len(attempts)} attempts for {len(designs)} runs")
     finished = sum(d["status"] == "finished" for d in designs) + len(side)
     print(f"llm-designer: {len(designs)} runs, {finished} scored designs (incl. {len(side)} budget-2x reruns)")
     for name in ("2026-10-grok-imagine-2", "2026-10-qwen-image-3"):

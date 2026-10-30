@@ -1,9 +1,9 @@
-model,name,finished,runs,overall,ci_low,ci_high,legibility,lettering_and_finish,information_and_layout,appeal,invented_lines_per_design,partly_fits_intent,median_cost_usd,median_proposal_seconds
-claude-opus-5-5,Claude Opus 5.5,18,36,7.97,7.56,8.33,8.7,8,7.4,7.8,0.22,2,0.4125,69.8
-gpt-6-luna,GPT-6 Luna,36,36,7.69,7.51,7.86,9.1,7.2,7.5,7.2,0.36,9,0.0054,44.9
-gpt-5.6-terra,GPT-5.6 Terra,35,36,7.58,7.28,7.86,8.7,7.5,7.0,7.5,0.46,11,0.0901,28.8
-gemini-4-argon,Gemini 4 Argon,36,36,7.56,7.32,7.78,8.6,7.9,6.2,7.7,1.56,9,0.1063,40.0
-claude-sonnet-5-5,Claude Sonnet 5.5,36,36,7.43,7.2,7.66,8.7,7.9,5.6,7.8,1.11,4,0.176,27.2
-gpt-6.1-sol,GPT-6.1 Sol,36,36,7.35,7.11,7.59,9.4,6.6,7.5,6.4,0.28,15,0.0896,62.6
-gemini-3.8-flash,Gemini 3.8 Flash,36,36,7.33,7.01,7.62,8.8,7.7,5.4,7.7,2.36,12,0.0434,32.4
-gpt-6.1-terra,GPT-6.1 Terra,36,36,7.08,6.74,7.41,9.1,6.5,7,6.1,0.17,17,0.0412,37.0
+model,name,runs,finished,briefs_covered,overall,ci_low,ci_high,legibility,lettering_and_finish,information_and_layout,appeal,invented_lines_per_design,share_not_fully_fitting_intent,median_cost_usd,spend_per_finished_design_usd,median_proposal_seconds,p90_proposal_seconds,median_image_instructions_seconds,p90_image_instructions_seconds,first_attempt_finished,model_failures,provider_errors,front_desk_reruns,internal_retries
+claude-opus-5-5,Claude Opus 5.5,36,18,8,7.97,7.4,8.46,8.7,8,7.4,7.8,0.22,0.11,0.4125,0.721,64.5,75.2,25.4,35.0,18,18,0,0,19
+gpt-6-luna,GPT-6 Luna,36,36,12,7.69,7.5,7.88,9.1,7.2,7.5,7.2,0.36,0.25,0.0054,0.0054,44.3,58.1,15.9,23.1,36,0,0,0,1
+gpt-5.6-terra,GPT-5.6 Terra,36,35,12,7.58,7.14,7.97,8.7,7.5,7.0,7.5,0.46,0.31,0.0901,0.0932,28.8,38.2,12.0,14.1,33,1,0,2,0
+gemini-4-argon,Gemini 4 Argon,36,36,12,7.56,7.21,7.89,8.6,7.9,6.2,7.7,1.56,0.25,0.1063,0.1021,39.8,72.5,21.6,32.7,36,0,0,0,3
+claude-sonnet-5-5,Claude Sonnet 5.5,36,36,12,7.43,7.14,7.75,8.7,7.9,5.6,7.8,1.11,0.11,0.176,0.1622,27.0,32.1,14.1,15.9,36,0,0,0,0
+gpt-6.1-sol,GPT-6.1 Sol,36,36,12,7.35,7.03,7.71,9.4,6.6,7.5,6.4,0.28,0.42,0.0896,0.0913,62.4,78.5,24.5,29.6,34,0,0,2,0
+gemini-3.8-flash,Gemini 3.8 Flash,36,36,12,7.33,6.94,7.69,8.8,7.7,5.4,7.7,2.36,0.33,0.0434,0.0485,32.2,48.8,12.9,35.2,29,0,8,0,4
+gpt-6.1-terra,GPT-6.1 Terra,36,36,12,7.08,6.59,7.56,9.1,6.5,7,6.1,0.17,0.47,0.0412,0.0409,36.9,45.0,13.2,16.6,36,0,0,0,0

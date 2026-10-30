@@ -1,6 +1,8 @@
 # Scoring standard
 
-Version 1.2, October 30, 2026. This is the standard used for `2026-10-llm-designer`. The two
+Version 1.2, October 30, 2026. This is the standard used for `2026-10-llm-designer`. The judge
+received these instructions in Chinese ([SCORING.zh.md](SCORING.zh.md)); this is an English
+translation. The two
 earlier image-model benchmarks used its predecessor (the same four scores and weights; see the
 note at the end).
 
@@ -18,17 +20,19 @@ out of scope.
   reasoning effort, limits) is the same for every model. A model is never given its own settings.
   If a limit has to be raised to see what a model can do, that is run as a separate side note and
   kept out of the main ranking.
-- At least three runs per brief per model. The first result is the one rendered and scored; nothing
-  is picked by hand.
+- At least three runs per brief per model. Each run renders the first of the proposed directions,
+  and that result is scored; nothing is picked by hand.
 - Failures are classified from logs: the model's own output (cut off at the limit, empty or broken)
   counts as a failure and is not rerun; provider errors and pipeline steps that are not under test
-  are rerun and reported separately.
+  are rerun, and every attempt is published and reported separately.
 - The main ranking comes from the scores below. Judges see anonymous IDs, never model names. All
   designs for one brief are scored by the same judge in one pass. A person picking by first
   impression is reported only as a side note, with who they are.
 - Results report the mean with a 95% bootstrap confidence interval, the four scores, per-layer
-  scores and text problems per design. Two models are compared with a paired difference (same
-  brief, same run) and its interval; if the interval crosses zero, they are called a tie.
+  scores and text problems per design. Designs of the same brief share a judge pass, so the
+  bootstrap resamples briefs. Two models are compared on the briefs both finished, using the
+  difference of their per-brief means and its interval; if the interval crosses zero, they are
+  called a tie.
 
 ## The judge's instructions
 
