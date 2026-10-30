@@ -1,0 +1,131 @@
+{
+  "article": "https://fontvibe.ai/blog/qwen-image-3-text-test",
+  "tasks": [
+    {
+      "id": 1,
+      "category": "invitation",
+      "aspect_ratio": "3:4",
+      "lettering_effect": "glossy balloon letters",
+      "prompt": "Birthday party invitation for my daughter, \"Mia's 7th Birthday\" in glossy balloon letters, \"Saturday, Nov 14 · 2 PM\", \"Sunny Park Pavilion\", \"RSVP by Nov 7\", bright and playful, portrait card",
+      "must_appear": [
+        "Mia's 7th Birthday",
+        "Saturday, Nov 14 · 2 PM",
+        "Sunny Park Pavilion",
+        "RSVP by Nov 7"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "sticker",
+      "aspect_ratio": "1:1",
+      "lettering_effect": "chunky chrome 3D lettering",
+      "prompt": "Die-cut sticker for my skate shop, \"SLOW LANE\" in chunky chrome 3D lettering, small \"SKATE CO. · OAKLAND · EST. 2019\" on a ribbon banner underneath, a skateboard wheel graphic, thick white sticker border, isolated on plain white",
+      "must_appear": [
+        "SLOW LANE",
+        "SKATE CO. · OAKLAND · EST. 2019"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "gig-poster",
+      "aspect_ratio": "2:3",
+      "lettering_effect": "molten fire lettering",
+      "prompt": "A3 gig poster for my band \"BURNING ORCHARD\", band name in molten fire lettering as the main focus, \"with special guests THE LOW TIDES\", \"SAT 14 NOV · DOORS 8 PM\", \"THE CELLAR · 22 MILL STREET\", \"TICKETS £12 ON THE DOOR\", gritty rock atmosphere with burning trees",
+      "must_appear": [
+        "BURNING ORCHARD",
+        "with special guests THE LOW TIDES",
+        "SAT 14 NOV · DOORS 8 PM",
+        "THE CELLAR · 22 MILL STREET",
+        "TICKETS £12 ON THE DOOR"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "dense-schedule",
+      "aspect_ratio": "3:4",
+      "lettering_effect": "bold geometric lettering",
+      "prompt": "Printed schedule for a one-day design conference, title \"FORM & FUNCTION 2027\" in bold geometric lettering, then this exact list, one line each: \"09:00 Registration & Coffee\", \"09:30 Opening Keynote — Ada Moreno\", \"10:15 Type in Motion\", \"11:00 Panel: Designing for Screens\", \"12:30 Lunch Break\", \"13:30 Workshop A / Workshop B\", \"15:00 Color Systems at Scale\", \"16:00 Closing Talk — Ken Ito\", and a small footer \"Hall 3 · Riverside Center · formfunction.design\"",
+      "must_appear": [
+        "FORM & FUNCTION 2027",
+        "09:00 Registration & Coffee",
+        "09:30 Opening Keynote — Ada Moreno",
+        "10:15 Type in Motion",
+        "11:00 Panel: Designing for Screens",
+        "12:30 Lunch Break",
+        "13:30 Workshop A / Workshop B",
+        "15:00 Color Systems at Scale",
+        "16:00 Closing Talk — Ken Ito",
+        "Hall 3 · Riverside Center · formfunction.design"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "zh-en-mixed",
+      "aspect_ratio": "3:4",
+      "lettering_effect": "brush-and-ink calligraphy",
+      "prompt": "Front label for a tea tin, brand name \"山间茶事\" in elegant brush-and-ink calligraphy, English line \"MOUNTAIN TEA HOUSE\", product line \"明前龙井 · 二〇二七年春\", net weight \"净含量 100 克\", misty green mountains, no other text",
+      "must_appear": [
+        "山间茶事",
+        "MOUNTAIN TEA HOUSE",
+        "明前龙井 · 二〇二七年春",
+        "净含量 100 克"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "ja-vertical",
+      "aspect_ratio": "2:3",
+      "lettering_effect": "vertical Mincho lettering",
+      "prompt": "Poster for a bookstore's autumn reading week, headline \"秋の読書週間\" set vertically in elegant Mincho lettering, sub-line \"十月二十七日〜十一月九日\", and \"全品ポイント二倍\", warm maple leaves, all Japanese text written vertically, no other text",
+      "must_appear": [
+        "秋の読書週間",
+        "十月二十七日〜十一月九日",
+        "全品ポイント二倍"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "badge-logo",
+      "aspect_ratio": "1:1",
+      "lettering_effect": "small caps + monogram",
+      "prompt": "Badge logo for a hiking outfitter called \"Fernwood Outfitters\", an interlocking \"FW\" monogram with a fern leaf in the center, the full name in clean small caps around the badge, flat vector look, two colors, on plain white, no other text",
+      "must_appear": [
+        "FW",
+        "Fernwood Outfitters"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "photo-sign",
+      "aspect_ratio": "3:2",
+      "lettering_effect": "hand-painted sign",
+      "prompt": "Realistic photo of a vintage food truck parked by the beach at noon, hand-painted lettering on its side reads \"SALT & LIME TACOS\", a menu board next to it reads \"3 TACOS $9 · HORCHATA $4\", bright sunlight, shot on a 50mm lens",
+      "must_appear": [
+        "SALT & LIME TACOS",
+        "3 TACOS $9 · HORCHATA $4"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "edit-two-facts",
+      "aspect_ratio": "2:3",
+      "lettering_effect": "keep original",
+      "prompt": "Change the date to \"FRIDAY • NOVEMBER 13 • 2026\" and the price to \"$20\", and keep everything else exactly as it is",
+      "must_appear": [
+        "FRIDAY • NOVEMBER 13 • 2026",
+        "$20"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "ref-layout-lettering",
+      "aspect_ratio": "3:4",
+      "lettering_effect": "layout from ref 1, lettering from ref 2",
+      "prompt": "Portrait poster that says \"OPEN STUDIO\" with a small line \"Sat & Sun · 11 AM–6 PM\". Use the layout of reference image 1 and the lettering style of reference image 2.",
+      "must_appear": [
+        "OPEN STUDIO",
+        "Sat & Sun · 11 AM–6 PM"
+      ]
+    }
+  ]
+}

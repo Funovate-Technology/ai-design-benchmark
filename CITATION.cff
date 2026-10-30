@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "AI Design Benchmark"
+message: "If you use this data, please cite it and link the FontVibe article of the benchmark you used, e.g. https://fontvibe.ai/blog/gpt-6-1-terra-vs-claude-gemini-design-test."
+type: dataset
+authors:
+  - name: "FontVibe"
+    website: "https://fontvibe.ai"
+abstract: >-
+  Open data from FontVibe's benchmarks of AI models doing design work with
+  text. 2026-10-llm-designer: eight language models (GPT-6.1 Terra, GPT-5.6
+  Terra, GPT-6.1 Sol, GPT-6 Luna, Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4
+  Argon, Gemini 3.8 Flash) act as the designer in a fixed design pipeline, on 12
+  briefs in four layers and six languages, three runs each, 287 designs scored
+  blind. Two image-model benchmarks (Grok Imagine 2.0, Qwen Image 3.0) compare
+  text rendering on ten design jobs. Every brief, output, image link, score and
+  written reason is included, with scripts that recompute the published tables.
+keywords:
+  - benchmark
+  - large language models
+  - graphic design
+  - typography
+  - text-to-image
+  - evaluation
+  - AI design
+license: CC-BY-4.0
+url: "https://fontvibe.ai/blog/gpt-6-1-terra-vs-claude-gemini-design-test"
+repository-code: "https://github.com/Funovate-Technology/ai-design-benchmark"
+version: "1.0.0"
+date-released: "2026-10-30"

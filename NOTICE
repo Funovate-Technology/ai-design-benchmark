@@ -1,0 +1,20 @@
+ai-design-benchmark
+Copyright (c) 2026 Funovate Technology (FontVibe, https://fontvibe.ai)
+
+Licensing
+  - Data (benchmarks/, SCORING.md, README.md): CC BY 4.0 — see LICENSE.
+  - Code (scripts/): MIT — see LICENSE-CODE.
+
+Attribution requested under CC BY 4.0
+  Link the FontVibe article of the benchmark you used, e.g.
+  https://fontvibe.ai/blog/gpt-6-1-terra-vs-claude-gemini-design-test
+  rel="nofollow" is fine. See README.md#attribution.
+
+Images
+  Images are not part of this repository. They are hotlinked from FontVibe
+  (cos.fontvibe.ai) and remain subject to FontVibe's terms
+  (https://fontvibe.ai/terms).
+
+Model names
+  Model and product names belong to their owners. Results describe the named
+  model versions on the stated test dates.

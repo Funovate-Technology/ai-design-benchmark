@@ -1,0 +1,132 @@
+{
+  "article": "https://fontvibe.ai/blog/grok-imagine-2-text-test",
+  "tasks": [
+    {
+      "id": 1,
+      "category": "invitation",
+      "aspect_ratio": "3:4",
+      "lettering_effect": "glossy balloon letters",
+      "prompt": "Birthday party invitation for my daughter, \"Mia's 7th Birthday\" in glossy balloon letters, \"Saturday, Nov 14 · 2 PM\", \"Sunny Park Pavilion\", \"RSVP by Nov 7\", bright and playful, portrait card",
+      "must_appear": [
+        "Mia's 7th Birthday",
+        "Saturday, Nov 14 · 2 PM",
+        "Sunny Park Pavilion",
+        "RSVP by Nov 7"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "tshirt-print",
+      "aspect_ratio": "1:1",
+      "lettering_effect": "wildstyle graffiti with drips",
+      "prompt": "Front chest print for my streetwear brand, \"NIGHTSHIFT\" in wildstyle graffiti with drips, small \"AFTER DARK CLUB · EST. 2026\" underneath, a crescent moon graphic, isolated on plain white so I can send it to the printer",
+      "must_appear": [
+        "NIGHTSHIFT",
+        "AFTER DARK CLUB · EST. 2026"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "gig-poster",
+      "aspect_ratio": "2:3",
+      "lettering_effect": "molten fire lettering",
+      "prompt": "A3 gig poster for my band \"BURNING ORCHARD\", band name in molten fire lettering as the main focus, \"with special guests THE LOW TIDES\", \"SAT 14 NOV · DOORS 8 PM\", \"THE CELLAR · 22 MILL STREET\", \"TICKETS £12 ON THE DOOR\", gritty rock atmosphere with burning trees",
+      "must_appear": [
+        "BURNING ORCHARD",
+        "with special guests THE LOW TIDES",
+        "SAT 14 NOV · DOORS 8 PM",
+        "THE CELLAR · 22 MILL STREET",
+        "TICKETS £12 ON THE DOOR"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "dense-menu",
+      "aspect_ratio": "3:4",
+      "lettering_effect": "hand-chalked lettering",
+      "prompt": "Chalkboard menu for my coffee shop, title \"SUNNY SIDE CAFÉ\" in hand-chalked lettering, then this exact list with prices, one item per line: \"Espresso 3.20\", \"Cappuccino 4.10\", \"Flat White 4.30\", \"Oat Latte 4.60\", \"Matcha Latte 4.80\", \"Cold Brew 4.50\", \"Croissant 3.40\", \"Banana Bread 3.80\", \"Avocado Toast 7.90\", and a small footer \"Free Wi-Fi · Open 7 AM–4 PM\"",
+      "must_appear": [
+        "SUNNY SIDE CAFÉ",
+        "Espresso 3.20",
+        "Cappuccino 4.10",
+        "Flat White 4.30",
+        "Oat Latte 4.60",
+        "Matcha Latte 4.80",
+        "Cold Brew 4.50",
+        "Croissant 3.40",
+        "Banana Bread 3.80",
+        "Avocado Toast 7.90",
+        "Free Wi-Fi · Open 7 AM–4 PM"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "chinese-poster",
+      "aspect_ratio": "2:3",
+      "lettering_effect": "cracked-steel lettering",
+      "prompt": "Movie poster, title \"长夜将尽\" in heavy cracked-steel lettering, below it \"十一月十五日 全国上映\" and the tagline \"黎明之前 无路可退\", rainy city at night, all text in Simplified Chinese, no other text",
+      "must_appear": [
+        "长夜将尽",
+        "十一月十五日 全国上映",
+        "黎明之前 无路可退"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "japanese-poster",
+      "aspect_ratio": "3:4",
+      "lettering_effect": "bold brush lettering",
+      "prompt": "Summer menu poster for a ramen shop, headline \"冷やし中華はじめました\" in bold brush lettering, sub-line \"期間限定 8月31日まで\", price tag \"980円（税込）\", fresh blue and white summer feel, no other text",
+      "must_appear": [
+        "冷やし中華はじめました",
+        "期間限定 8月31日まで",
+        "980円（税込）"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "logo",
+      "aspect_ratio": "1:1",
+      "lettering_effect": "hand-lettered wordmark",
+      "prompt": "Wordmark logo for a small bakery called \"Crumb & Co.\", hand-lettered with a playful baseline and a tiny wheat sprig on the ampersand, flat vector look, one color, on plain white, no other text",
+      "must_appear": [
+        "Crumb & Co."
+      ]
+    },
+    {
+      "id": 8,
+      "category": "photoreal-sign",
+      "aspect_ratio": "3:2",
+      "lettering_effect": "glowing neon sign",
+      "prompt": "Realistic photo of a small noodle shop at dusk, a glowing neon sign above the door that reads \"LUNA NOODLE BAR\" and a hand-painted window sign \"OPEN LATE · TAKEAWAY\", wet street reflections, shot on a 35mm lens",
+      "must_appear": [
+        "LUNA NOODLE BAR",
+        "OPEN LATE · TAKEAWAY"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "edit-text",
+      "aspect_ratio": "16:9",
+      "lettering_effect": "keep original lettering style",
+      "prompt": "Change the headline \"Thank you\" to \"Welcome back\" and keep everything else exactly as it is",
+      "must_appear": [
+        "Welcome back",
+        "MAPLE GROVE ELEMENTARY",
+        "to our teachers",
+        "With gratitude from your staff"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "reference-style",
+      "aspect_ratio": "1:1",
+      "lettering_effect": "lettering style of reference image 1",
+      "prompt": "Square social post that says \"WEEKEND MARKET\" with a small line \"Every Saturday · 9 AM\". Use the lettering style of reference image 1 and the color palette of reference image 2.",
+      "must_appear": [
+        "WEEKEND MARKET",
+        "Every Saturday · 9 AM"
+      ]
+    }
+  ]
+}

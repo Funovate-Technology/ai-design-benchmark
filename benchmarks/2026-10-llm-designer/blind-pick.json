@@ -1,0 +1,569 @@
+{
+ "note": "One person (FontVibe's founder, who was not the client for any brief) saw one design per model per brief, anonymised and shuffled, and picked the one he would use. A side note, not part of the ranking.",
+ "picks": [
+  {
+   "brief": 1,
+   "picked_design": "b01-gemini_flash38-r1",
+   "picked_model": "gemini-3.8-flash",
+   "shown": [
+    {
+     "slot": "A",
+     "model": "claude-opus-5-5",
+     "design_id": "b01-anthropic_opus55-r1"
+    },
+    {
+     "slot": "B",
+     "model": "gemini-4-argon",
+     "design_id": "b01-gemini_argon4-r1"
+    },
+    {
+     "slot": "C",
+     "model": "gpt-6.1-sol",
+     "design_id": "b01-openai_sol61-r3"
+    },
+    {
+     "slot": "D",
+     "model": "gpt-5.6-terra",
+     "design_id": "b01-openai-r2"
+    },
+    {
+     "slot": "E",
+     "model": "claude-sonnet-5-5",
+     "design_id": "b01-anthropic_sonnet55-r3"
+    },
+    {
+     "slot": "F",
+     "model": "gpt-6.1-terra",
+     "design_id": "b01-openai_terra61-r1"
+    },
+    {
+     "slot": "G",
+     "model": "gemini-3.8-flash",
+     "design_id": "b01-gemini_flash38-r1"
+    },
+    {
+     "slot": "H",
+     "model": "gpt-6-luna",
+     "design_id": "b01-openai_luna-r2"
+    }
+   ]
+  },
+  {
+   "brief": 2,
+   "picked_design": "b02-anthropic_sonnet55-r2",
+   "picked_model": "claude-sonnet-5-5",
+   "shown": [
+    {
+     "slot": "A",
+     "model": "gpt-6.1-sol",
+     "design_id": "b02-openai_sol61-r1"
+    },
+    {
+     "slot": "B",
+     "model": "gemini-3.8-flash",
+     "design_id": "b02-gemini_flash38-r2"
+    },
+    {
+     "slot": "C",
+     "model": "gpt-6-luna",
+     "design_id": "b02-openai_luna-r1"
+    },
+    {
+     "slot": "D",
+     "model": "gpt-5.6-terra",
+     "design_id": "b02-openai-r2"
+    },
+    {
+     "slot": "E",
+     "model": "gpt-6.1-terra",
+     "design_id": "b02-openai_terra61-r1"
+    },
+    {
+     "slot": "F",
+     "model": "claude-opus-5-5",
+     "design_id": "b02-anthropic_opus55-r3"
+    },
+    {
+     "slot": "G",
+     "model": "gemini-4-argon",
+     "design_id": "b02-gemini_argon4-r1"
+    },
+    {
+     "slot": "H",
+     "model": "claude-sonnet-5-5",
+     "design_id": "b02-anthropic_sonnet55-r2"
+    }
+   ]
+  },
+  {
+   "brief": 3,
+   "picked_design": "b03-openai-r1",
+   "picked_model": "gpt-5.6-terra",
+   "shown": [
+    {
+     "slot": "A",
+     "model": "gemini-4-argon",
+     "design_id": "b03-gemini_argon4-r2"
+    },
+    {
+     "slot": "B",
+     "model": "gpt-6.1-terra",
+     "design_id": "b03-openai_terra61-r3"
+    },
+    {
+     "slot": "C",
+     "model": "claude-opus-5-5",
+     "design_id": "b03-anthropic_opus55-r2"
+    },
+    {
+     "slot": "D",
+     "model": "gpt-5.6-terra",
+     "design_id": "b03-openai-r1"
+    },
+    {
+     "slot": "E",
+     "model": "gpt-6.1-sol",
+     "design_id": "b03-openai_sol61-r2"
+    },
+    {
+     "slot": "F",
+     "model": "gpt-6-luna",
+     "design_id": "b03-openai_luna-r2"
+    },
+    {
+     "slot": "G",
+     "model": "gemini-3.8-flash",
+     "design_id": "b03-gemini_flash38-r2"
+    },
+    {
+     "slot": "H",
+     "model": "claude-sonnet-5-5",
+     "design_id": "b03-anthropic_sonnet55-r2"
+    }
+   ]
+  },
+  {
+   "brief": 4,
+   "picked_design": "b04-gemini_flash38-r3",
+   "picked_model": "gemini-3.8-flash",
+   "shown": [
+    {
+     "slot": "A",
+     "model": "claude-opus-5-5",
+     "design_id": "b04-anthropic_opus55-r2"
+    },
+    {
+     "slot": "B",
+     "model": "gemini-3.8-flash",
+     "design_id": "b04-gemini_flash38-r3"
+    },
+    {
+     "slot": "C",
+     "model": "gpt-6.1-sol",
+     "design_id": "b04-openai_sol61-r2"
+    },
+    {
+     "slot": "D",
+     "model": "gpt-5.6-terra",
+     "design_id": "b04-openai-r1"
+    },
+    {
+     "slot": "E",
+     "model": "gemini-4-argon",
+     "design_id": "b04-gemini_argon4-r1"
+    },
+    {
+     "slot": "F",
+     "model": "gpt-6.1-terra",
+     "design_id": "b04-openai_terra61-r1"
+    },
+    {
+     "slot": "G",
+     "model": "claude-sonnet-5-5",
+     "design_id": "b04-anthropic_sonnet55-r2"
+    },
+    {
+     "slot": "H",
+     "model": "gpt-6-luna",
+     "design_id": "b04-openai_luna-r1"
+    }
+   ]
+  },
+  {
+   "brief": 5,
+   "picked_design": "b05-gemini_flash38-r1",
+   "picked_model": "gemini-3.8-flash",
+   "shown": [
+    {
+     "slot": "A",
+     "model": "gpt-6.1-sol",
+     "design_id": "b05-openai_sol61-r3"
+    },
+    {
+     "slot": "B",
+     "model": "gemini-4-argon",
+     "design_id": "b05-gemini_argon4-r1"
+    },
+    {
+     "slot": "C",
+     "model": "gpt-5.6-terra",
+     "design_id": "b05-openai-r1"
+    },
+    {
+     "slot": "D",
+     "model": "gpt-6.1-terra",
+     "design_id": "b05-openai_terra61-r1"
+    },
+    {
+     "slot": "E",
+     "model": "gemini-3.8-flash",
+     "design_id": "b05-gemini_flash38-r1"
+    },
+    {
+     "slot": "F",
+     "model": "claude-opus-5-5",
+     "design_id": "b05-anthropic_opus55-r1-budget2"
+    },
+    {
+     "slot": "G",
+     "model": "gpt-6-luna",
+     "design_id": "b05-openai_luna-r1"
+    },
+    {
+     "slot": "H",
+     "model": "claude-sonnet-5-5",
+     "design_id": "b05-anthropic_sonnet55-r3"
+    }
+   ]
+  },
+  {
+   "brief": 6,
+   "picked_design": "b06-anthropic_opus55-r2",
+   "picked_model": "claude-opus-5-5",
+   "shown": [
+    {
+     "slot": "A",
+     "model": "gemini-3.8-flash",
+     "design_id": "b06-gemini_flash38-r3"
+    },
+    {
+     "slot": "B",
+     "model": "gpt-6-luna",
+     "design_id": "b06-openai_luna-r1"
+    },
+    {
+     "slot": "C",
+     "model": "gpt-6.1-terra",
+     "design_id": "b06-openai_terra61-r3"
+    },
+    {
+     "slot": "D",
+     "model": "gpt-5.6-terra",
+     "design_id": "b06-openai-r3"
+    },
+    {
+     "slot": "E",
+     "model": "claude-sonnet-5-5",
+     "design_id": "b06-anthropic_sonnet55-r2"
+    },
+    {
+     "slot": "F",
+     "model": "gemini-4-argon",
+     "design_id": "b06-gemini_argon4-r3"
+    },
+    {
+     "slot": "G",
+     "model": "claude-opus-5-5",
+     "design_id": "b06-anthropic_opus55-r2"
+    },
+    {
+     "slot": "H",
+     "model": "gpt-6.1-sol",
+     "design_id": "b06-openai_sol61-r1"
+    }
+   ]
+  },
+  {
+   "brief": 7,
+   "picked_design": "b07-anthropic_sonnet55-r1",
+   "picked_model": "claude-sonnet-5-5",
+   "shown": [
+    {
+     "slot": "A",
+     "model": "gpt-5.6-terra",
+     "design_id": "b07-openai-r1"
+    },
+    {
+     "slot": "B",
+     "model": "gpt-6-luna",
+     "design_id": "b07-openai_luna-r1"
+    },
+    {
+     "slot": "C",
+     "model": "claude-opus-5-5",
+     "design_id": "b07-anthropic_opus55-r3"
+    },
+    {
+     "slot": "D",
+     "model": "claude-sonnet-5-5",
+     "design_id": "b07-anthropic_sonnet55-r1"
+    },
+    {
+     "slot": "E",
+     "model": "gemini-4-argon",
+     "design_id": "b07-gemini_argon4-r1"
+    },
+    {
+     "slot": "F",
+     "model": "gemini-3.8-flash",
+     "design_id": "b07-gemini_flash38-r3"
+    },
+    {
+     "slot": "G",
+     "model": "gpt-6.1-sol",
+     "design_id": "b07-openai_sol61-r1"
+    },
+    {
+     "slot": "H",
+     "model": "gpt-6.1-terra",
+     "design_id": "b07-openai_terra61-r2"
+    }
+   ]
+  },
+  {
+   "brief": 8,
+   "picked_design": "b08-anthropic_sonnet55-r1",
+   "picked_model": "claude-sonnet-5-5",
+   "shown": [
+    {
+     "slot": "A",
+     "model": "gpt-5.6-terra",
+     "design_id": "b08-openai-r3"
+    },
+    {
+     "slot": "B",
+     "model": "gemini-4-argon",
+     "design_id": "b08-gemini_argon4-r3"
+    },
+    {
+     "slot": "C",
+     "model": "gemini-3.8-flash",
+     "design_id": "b08-gemini_flash38-r3"
+    },
+    {
+     "slot": "D",
+     "model": "gpt-6-luna",
+     "design_id": "b08-openai_luna-r1"
+    },
+    {
+     "slot": "E",
+     "model": "gpt-6.1-terra",
+     "design_id": "b08-openai_terra61-r3"
+    },
+    {
+     "slot": "F",
+     "model": "gpt-6.1-sol",
+     "design_id": "b08-openai_sol61-r2"
+    },
+    {
+     "slot": "G",
+     "model": "claude-opus-5-5",
+     "design_id": "b08-anthropic_opus55-r2-budget2"
+    },
+    {
+     "slot": "H",
+     "model": "claude-sonnet-5-5",
+     "design_id": "b08-anthropic_sonnet55-r1"
+    }
+   ]
+  },
+  {
+   "brief": 9,
+   "picked_design": "b09-gemini_argon4-r3",
+   "picked_model": "gemini-4-argon",
+   "shown": [
+    {
+     "slot": "A",
+     "model": "gpt-6-luna",
+     "design_id": "b09-openai_luna-r2"
+    },
+    {
+     "slot": "B",
+     "model": "claude-sonnet-5-5",
+     "design_id": "b09-anthropic_sonnet55-r3"
+    },
+    {
+     "slot": "C",
+     "model": "gpt-5.6-terra",
+     "design_id": "b09-openai-r2"
+    },
+    {
+     "slot": "D",
+     "model": "gpt-6.1-sol",
+     "design_id": "b09-openai_sol61-r1"
+    },
+    {
+     "slot": "E",
+     "model": "gemini-4-argon",
+     "design_id": "b09-gemini_argon4-r3"
+    },
+    {
+     "slot": "F",
+     "model": "claude-opus-5-5",
+     "design_id": "b09-anthropic_opus55-r3"
+    },
+    {
+     "slot": "G",
+     "model": "gemini-3.8-flash",
+     "design_id": "b09-gemini_flash38-r2"
+    },
+    {
+     "slot": "H",
+     "model": "gpt-6.1-terra",
+     "design_id": "b09-openai_terra61-r1"
+    }
+   ]
+  },
+  {
+   "brief": 10,
+   "picked_design": "b10-gemini_flash38-r2",
+   "picked_model": "gemini-3.8-flash",
+   "shown": [
+    {
+     "slot": "A",
+     "model": "claude-opus-5-5",
+     "design_id": "b10-anthropic_opus55-r1"
+    },
+    {
+     "slot": "B",
+     "model": "gemini-4-argon",
+     "design_id": "b10-gemini_argon4-r3"
+    },
+    {
+     "slot": "C",
+     "model": "claude-sonnet-5-5",
+     "design_id": "b10-anthropic_sonnet55-r3"
+    },
+    {
+     "slot": "D",
+     "model": "gpt-6.1-sol",
+     "design_id": "b10-openai_sol61-r2"
+    },
+    {
+     "slot": "E",
+     "model": "gpt-5.6-terra",
+     "design_id": "b10-openai-r2"
+    },
+    {
+     "slot": "F",
+     "model": "gpt-6.1-terra",
+     "design_id": "b10-openai_terra61-r2"
+    },
+    {
+     "slot": "G",
+     "model": "gemini-3.8-flash",
+     "design_id": "b10-gemini_flash38-r2"
+    },
+    {
+     "slot": "H",
+     "model": "gpt-6-luna",
+     "design_id": "b10-openai_luna-r1"
+    }
+   ]
+  },
+  {
+   "brief": 11,
+   "picked_design": "b11-gemini_argon4-r1",
+   "picked_model": "gemini-4-argon",
+   "shown": [
+    {
+     "slot": "A",
+     "model": "gpt-6.1-sol",
+     "design_id": "b11-openai_sol61-r3"
+    },
+    {
+     "slot": "B",
+     "model": "claude-opus-5-5",
+     "design_id": "b11-anthropic_opus55-r2-budget2"
+    },
+    {
+     "slot": "C",
+     "model": "gpt-6-luna",
+     "design_id": "b11-openai_luna-r3"
+    },
+    {
+     "slot": "D",
+     "model": "claude-sonnet-5-5",
+     "design_id": "b11-anthropic_sonnet55-r2"
+    },
+    {
+     "slot": "E",
+     "model": "gpt-6.1-terra",
+     "design_id": "b11-openai_terra61-r2"
+    },
+    {
+     "slot": "F",
+     "model": "gemini-3.8-flash",
+     "design_id": "b11-gemini_flash38-r2"
+    },
+    {
+     "slot": "G",
+     "model": "gpt-5.6-terra",
+     "design_id": "b11-openai-r1"
+    },
+    {
+     "slot": "H",
+     "model": "gemini-4-argon",
+     "design_id": "b11-gemini_argon4-r1"
+    }
+   ]
+  },
+  {
+   "brief": 12,
+   "picked_design": "b12-openai-r1",
+   "picked_model": "gpt-5.6-terra",
+   "shown": [
+    {
+     "slot": "A",
+     "model": "gemini-3.8-flash",
+     "design_id": "b12-gemini_flash38-r3"
+    },
+    {
+     "slot": "B",
+     "model": "gemini-4-argon",
+     "design_id": "b12-gemini_argon4-r2"
+    },
+    {
+     "slot": "C",
+     "model": "gpt-6-luna",
+     "design_id": "b12-openai_luna-r3"
+    },
+    {
+     "slot": "D",
+     "model": "gpt-5.6-terra",
+     "design_id": "b12-openai-r1"
+    },
+    {
+     "slot": "E",
+     "model": "gpt-6.1-sol",
+     "design_id": "b12-openai_sol61-r2"
+    },
+    {
+     "slot": "F",
+     "model": "gpt-6.1-terra",
+     "design_id": "b12-openai_terra61-r1"
+    },
+    {
+     "slot": "G",
+     "model": "claude-opus-5-5",
+     "design_id": "b12-anthropic_opus55-r2-budget2"
+    },
+    {
+     "slot": "H",
+     "model": "claude-sonnet-5-5",
+     "design_id": "b12-anthropic_sonnet55-r1"
+    }
+   ]
+  }
+ ]
+}

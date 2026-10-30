@@ -1,0 +1,42 @@
+{
+  "upload_type": "dataset",
+  "title": "AI Design Benchmark: language models as designers and image models on design work with text",
+  "description": "<p>Open data from FontVibe's benchmarks of AI models doing design work with text (logos, posters, signs, invitations, thumbnails, packaging).</p><p><b>2026-10-llm-designer</b>: eight language models from OpenAI, Anthropic and Google act as the designer in a fixed design pipeline (read the brief, propose three directions, write the image instructions); the image model is fixed (GPT Image 2.5 Sunburst, 2K, medium). 12 briefs in four layers (everyday requests, getting the information right, design judgement, language and culture) across six languages, three runs each; 287 designs scored blind against a published four-part standard, with cost, latency and failure causes. <b>2026-10-qwen-image-3</b> and <b>2026-10-grok-imagine-2</b> compare image models on ten design jobs with text.</p><p>Every brief, output, image link, score and written reason is included; <code>scripts/analyze.py</code> recomputes the published tables and <code>scripts/verify.py</code> checks the data. Write-ups: <a href=\"https://fontvibe.ai/blog/gpt-6-1-terra-vs-claude-gemini-design-test\">fontvibe.ai/blog/gpt-6-1-terra-vs-claude-gemini-design-test</a>.</p>",
+  "creators": [
+    {
+      "name": "FontVibe"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "benchmark",
+    "large language models",
+    "graphic design",
+    "typography",
+    "text-to-image",
+    "evaluation",
+    "AI design"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://fontvibe.ai/blog/gpt-6-1-terra-vs-claude-gemini-design-test",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://fontvibe.ai/blog/qwen-image-3-text-test",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://fontvibe.ai/blog/grok-imagine-2-text-test",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    }
+  ]
+}
