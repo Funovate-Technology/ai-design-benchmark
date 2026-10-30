@@ -1,5 +1,7 @@
 # AI Design Benchmark
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23803802.svg)](https://doi.org/10.5281/zenodo.23803802)
+
 **Open data from FontVibe's tests of AI models doing design work with text: logos, posters,
 signs, invitations, thumbnails and packaging.** Every brief, every output, every image, every
 score and the written reason behind each score.
@@ -116,7 +118,7 @@ Data: FontVibe AI Design Benchmark — https://fontvibe.ai/blog/gpt-6-1-terra-vs
 
 ## Citing it
 
-See [CITATION.cff](CITATION.cff). GitHub shows a "Cite this repository" button for it.
+See [CITATION.cff](CITATION.cff). GitHub shows a "Cite this repository" button for it. Every release is archived on Zenodo: [10.5281/zenodo.23803802](https://doi.org/10.5281/zenodo.23803802) always points to the latest version.
 
 ## Who made this
 
